@@ -78,3 +78,67 @@ a spiritual quality; and so forth. As energy passes through or rests in any chak
 the mind is influenced by the qualities of that center. In the deepest states of meditation,<br>
 all prana is withdrawn from the body into the chakras and then directed to the spiritual eye,<br>
 enabling enlightenment to take place.
+</p>
+
+    <div class="row">
+        <div class="campus-col">
+            <img src="images/root-chakra.png">
+            <div class="layer">
+                <h3>मूलाधार चक्र</h3>
+            </div>
+        </div>
+        <div class="campus-col">
+            <img src="images/sacral-chakra.webp">
+            <div class="layer">
+                <h3>स्वाधिष्ठान चक्र</h3>
+            </div>
+        </div>
+        <div class="campus-col">
+            <img src="images/solar-plexus-chakra.webp">
+            <div class="layer">
+                <h3>मणिपूरक चक्र</h3>
+            </div>
+        </div>
+    </div>   
+    <div class="row">
+        <div class="campus-col">
+            <img src="images/heart-chakra.webp">
+            <div class="layer">
+                <h3>अनाहत चक्र</h3>
+            </div>
+        </div>
+        <div class="campus-col">
+            <img src="images/throat-chakra.webp">
+            <div class="layer">
+                <h3>विशुद्धि चक्र</h3>
+            </div>
+        </div>
+        <div class="campus-col">
+            <img src="images/third-eye-chakra.webp">
+            <div class="layer">
+                <h3>आज्ञा चक्र</h3>
+            </div>
+        </div>
+        <div class="campus-col">
+            <img src="images/crown-chakra.webp">
+            <div class="layer">
+                <h3>सहस्रार चक्र</h3>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<!--------Javascript for toggle menu-------------->        
+        <script>
+            var navLinks = document.getElementById({"navLinks");
+            function showMenu(){
+                navlinks.style.right ="0";
+            }
+            function hideMenu(){
+                navLinks.style.right = "-200px";
+            }
+        </script>
+    </body>
+</html>
